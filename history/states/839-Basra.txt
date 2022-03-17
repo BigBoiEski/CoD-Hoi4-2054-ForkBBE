@@ -1,0 +1,20 @@
+state={
+	id=839
+	name="STATE_839"
+	history = {
+		victory_points = {
+			2089 10 
+		}
+		add_core_of = BSR
+		owner = BSR
+	}
+	provinces={
+		12855 7994 7977 78 2004 12726 2089 8001 12879
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	manpower = 123583 #placeholder
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
