@@ -1,6 +1,6 @@
 state={
 	id=840
-	name="STATE_840"
+	name="STATE_840" # Iranian Afghanistan
 	provinces={
 		1948 2017 2062 2101 4893 8053 12871 
 	}

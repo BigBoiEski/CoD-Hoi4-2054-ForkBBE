@@ -1,6 +1,6 @@
 state={
 	id=838
-	name="STATE_838"
+	name="STATE_838" # South Sudan
 	provinces={
 		1953 2096 4033 7996 10764 10857 10859 10877 10908 12800 
 	}

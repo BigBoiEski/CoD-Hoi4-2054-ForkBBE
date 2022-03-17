@@ -1,6 +1,6 @@
 state={
 	id=835
-	name="STATE_835"
+	name="STATE_835" # West Naples
 	provinces={
 		819 851 955 9826 11803 
 	}

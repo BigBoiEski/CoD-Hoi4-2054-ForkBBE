@@ -1,6 +1,6 @@
 state={
 	id=842
-	name="STATE_842"
+	name="STATE_842" # Brunei
 	provinces={
 		12299 
 	}

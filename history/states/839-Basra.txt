@@ -1,6 +1,6 @@
 state={
 	id=839
-	name="STATE_839"
+	name="STATE_839" # Basra
 	history = {
 		victory_points = {
 			2089 10 

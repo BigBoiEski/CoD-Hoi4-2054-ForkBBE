@@ -924,3 +924,55 @@ BRU = {
 	color = rgb { 255 182 0 }
 	color_ui = rgb { 255 182 0 }
 }
+JBS = {
+	color = rgb { 58 25 73 }
+	color_ui = rgb  { 58 25 73 }
+}
+JPC = {
+	color = rgb { 255 137 120 }
+	color_ui = rgb { 255 137 120 }
+}
+JPT = {
+	color = rgb { 12 100 217 }
+	color_ui = rgb { 12 100 217 }
+}
+JPM = {
+	color = rgb { 62 104 42 }
+	color_ui = rgb { 62 104 42 }
+}
+JHK = {
+	color = rgb { 255 186 0 }
+	color_ui = rgb { 255 186 0 }
+}
+JPE = {
+	color = rgb { 255 193 193 }
+	color_ui = rgb { 255 193 193 }
+}
+JP1 = {
+	color = rgb { 99 99 99 }
+	color_ui = rgb { 99 99 99 }
+}
+JP2 = {
+	color = rgb { 45 45 45 }
+	color_ui = rgb { 45 45 45 }
+} 
+JP3 = {
+	color = rgb { 76 76 76 }
+	color_ui = rgb { 76 76 76 }
+} 
+JP4 = {
+	color = rgb { 38 38 38 }
+	color_ui = rgb { 38 38 38 }
+}
+JP5 = {
+	color = rgb { 73 73 73 }
+	color_ui = rgb { 73 73 73 }
+}
+JP6 = {
+	color = rgb { 119 119 119 }
+	color_ui = rgb { 119 119 119 }
+} 
+JAP = {
+	color = rgb { 255 201 244 }
+	color_ui = rgb { 255 201 244 }
+}
