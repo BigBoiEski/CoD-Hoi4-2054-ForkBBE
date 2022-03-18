@@ -1,26 +1,25 @@
 state={
-	id=692
-	name="STATE_692"
-	manpower=76485
+	id=726
+	name="STATE_726"
+	manpower=123214
 	state_category = small_island
 
 	history={
-		add_core_of = BAS
-		owner = BAS
+		owner = SAM
+		add_core_of = SAM
 		buildings = {
 			infrastructure = 2
-			11350 = {
+			7290 = {
 				naval_base = 1
 			}
 		}
 		victory_points = {
-			11350 1
+			7290 1
 		}
 	}
-	
 	provinces={
-		379 11106 11350 13009 
+		7290 13080 
 	}
 
-	local_supplies=4.0 
+	local_supplies=0.0 
 }

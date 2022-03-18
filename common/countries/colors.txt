@@ -845,8 +845,8 @@ KAZ = {
     color_ui = rgb { 29 49 132 }
 }
 MON = {
-    color = rgb { 29 49 132 }
-    color_ui = rgb { 29 49 132 }
+    color = rgb { 228 82 44 }
+    color_ui = rgb { 228 82 44 }
 }
 ARA = {
     color = rgb { 35 97 190 }
@@ -975,4 +975,8 @@ JP6 = {
 JAP = {
 	color = rgb { 255 201 244 }
 	color_ui = rgb { 255 201 244 }
+}
+PAL = {
+	color = rgb { 226 255 112 }
+	color_ui = rgb { 226 255 112 }
 }

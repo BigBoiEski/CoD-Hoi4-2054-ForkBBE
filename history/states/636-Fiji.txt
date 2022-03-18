@@ -1,26 +1,29 @@
+
 state={
-	id=692
-	name="STATE_692"
-	manpower=76485
+	id=636
+	name="STATE_636"
+	manpower = 180000
+	
 	state_category = small_island
 
 	history={
-		add_core_of = BAS
-		owner = BAS
+		owner = FIJ
+		add_core_of = FIJ
 		buildings = {
 			infrastructure = 2
-			11350 = {
+			4286 = {
 				naval_base = 1
 			}
 		}
+		
 		victory_points = {
-			11350 1
+			4286 1 
 		}
 	}
 	
 	provinces={
-		379 11106 11350 13009 
+		4286 7302 12159 
 	}
 
-	local_supplies=4.0 
+	local_supplies=0.0 
 }
