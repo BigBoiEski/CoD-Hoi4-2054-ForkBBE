@@ -2,7 +2,7 @@
 state={
 	id=22
 	name="STATE_22" # Languedoc
-	manpower = 1691200
+	manpower = 3795913 # updated
 	
 	
 	state_category = town

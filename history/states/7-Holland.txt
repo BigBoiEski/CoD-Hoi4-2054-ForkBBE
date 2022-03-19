@@ -1,6 +1,6 @@
 state={
 	id=7
-	name="STATE_7"
+	name="STATE_7" # Holland
 	resources={
 		steel=4.000
 	}
@@ -40,7 +40,7 @@ state={
 	provinces={
 		68 391 3211 3314 9498 
 	}
-	manpower=4123000
+	manpower=8265487 # updated
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 
