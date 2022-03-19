@@ -830,7 +830,7 @@
  STATE_829:0 "Engels-Marxstadt"
  STATE_830:0 "Bukhara"
  STATE_831:0 "Khiva"
- STATE_832:0 "Tashauz" #Was renamed to Daşoguz in 1999
+ STATE_832:0 "Daşoguz" #Was renamed to Daşoguz in 1999
  STATE_833:0 "Mari El"
  STATE_834:0 "Balta-Tiraspol"
  STATE_835:0 "Naples"
@@ -838,9 +838,14 @@
  STATE_837:0 "Lesotho"
  STATE_838:0 "South Sudan"
  STATE_839:0 "Basra"
- STATE_840:0 "Iranian Afghanistan"
+ STATE_840:0 "Iranian Afghanistan" # probably has a proper name, too lazy to check
  STATE_841:0 "Jeju"
  STATE_842:0 "Singapore"
  STATE_843:0 "Brunei"
  STATE_844:0 "Fukushima"
  STATE_845:0 "Miyagi"
+ STATE_846:0 "South Rhodesia" # probably has a proper name, too lazy to check
+ STATE_847:0 "Karas Mountains"
+ STATE_848:0 "Southeast Angola" # probably has a proper name, too lazy to check
+ STATE_849:0 "UN Peacekeeping Zone" # probably has a proper name, too lazy to check
+ STATE_850:0 "Central Botswana" #probably has a proper name, too lazy to check

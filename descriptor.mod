@@ -1,4 +1,4 @@
-version="0.0.1"
+version="0.0.2"
 tags={
 	"Alternative History"
 	"Map"
@@ -8,5 +8,5 @@ tags={
 	"National Focuses"
 	"Events"
 }
-name="Children of Dusk 2052"
-supported_version="1.11.7"
+name="Children of Dusk 2054"
+supported_version="1.11.9"
