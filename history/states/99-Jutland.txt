@@ -1,12 +1,12 @@
 state= {
 	id=99
 	name="STATE_99"
-	manpower = 1672235
+	manpower = 3775345
 	resources={
 		aluminium=6 # was: 10
 	}
 	
-	state_category = town
+	state_category = city
 
 	history=
 	{
