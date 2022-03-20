@@ -2,7 +2,7 @@
 state={
 	id=42
 	name="STATE_42"
-	manpower = 3027739
+	manpower = 4707988 # updated
 	resources={
 		steel=59 # was: 100
 		aluminium=14 # was: 24
@@ -23,7 +23,6 @@ state={
 		}
 		add_core_of = RIN
 		add_core_of = GER
-		add_core_of = FRA
 	}
 
 	provinces={
