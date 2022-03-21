@@ -1,9 +1,9 @@
 state= {
 	id=120
 	name="STATE_120"
-	manpower = 265873
+	manpower = 451754 # updated
 	
-	state_category = rural
+	state_category = town
 
 	resources={
 		chromium=1 # was: 2

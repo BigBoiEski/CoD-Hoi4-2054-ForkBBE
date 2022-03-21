@@ -29,10 +29,10 @@ state={
 	}
 
 	provinces={
-		883 3958 3968 6843 6939 6972 6980
+		 819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 
 	}
-	manpower=7467055
+	manpower=10443609 # updated
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=metropolis
 	local_supplies=13.000
 }

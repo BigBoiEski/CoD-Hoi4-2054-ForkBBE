@@ -2,7 +2,7 @@
 state={
 	id=150
 	name="STATE_150" # Savo
-	manpower = 611100
+	manpower = 802634 # updated
 	
 	state_category = town
 	

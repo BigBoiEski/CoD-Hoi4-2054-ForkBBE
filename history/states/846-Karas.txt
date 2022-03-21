@@ -1,0 +1,17 @@
+state={
+	id=846
+	name="STATE_847"
+	provinces={
+		2207 2229 4879 5154 10963 
+	}
+	history = {
+		victory_points = {
+			10963 1 
+		}
+		owner = AF3
+	}
+	state_category = wasteland
+	manpower=10 # placeholder
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

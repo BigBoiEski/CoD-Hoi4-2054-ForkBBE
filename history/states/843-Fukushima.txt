@@ -1,0 +1,24 @@
+state={
+	id=843
+	name="STATE_844" # Fukushima
+	provinces={
+		1024 4067 4118 4122 4153 
+	}
+		history = {
+		owner = JPC
+		add_core_of = JAP
+		add_core_of = JBS
+		add_core_of = JPC
+		add_core_of = JBM
+		add_core_of = JPE
+		add_core_of = JHK
+		add_core_of = JPC
+		victory_points = {
+			7169 20
+		}
+	}
+	manpower=1 # placeholder
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

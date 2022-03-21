@@ -2,7 +2,7 @@
 state={
 	id=149
 	name="STATE_149" # Pohjanmaa
-	manpower = 811029
+	manpower = 2231698 # updated
 	
 	state_category = town
 	

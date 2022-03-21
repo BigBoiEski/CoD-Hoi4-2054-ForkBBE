@@ -2,7 +2,7 @@
 state={
 	id=133
 	name="STATE_133" # Lanark
-	manpower = 2257723
+	manpower = 3067608 #updated
 	
 	state_category = city
 	
