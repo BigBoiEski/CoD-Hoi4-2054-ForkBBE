@@ -2,9 +2,9 @@
 state={
 	id=194
 	name="STATE_194" # Mozyr
-	manpower = 934632
+	manpower = 2162870 # updated
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = SOV

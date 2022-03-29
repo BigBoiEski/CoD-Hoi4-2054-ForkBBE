@@ -2,9 +2,9 @@
 state={
 	id=208
 	name="STATE_208" # Luga
-	manpower = 341819
+	manpower = 1314889 # updated
 	
-	state_category = rural
+	state_category = large_town
 
 	history={
 		owner = SOV

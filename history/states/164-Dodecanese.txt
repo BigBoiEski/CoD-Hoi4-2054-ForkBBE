@@ -2,13 +2,13 @@ state=
 {
 	id=164
 	name="STATE_164"
-	manpower = 120000
+	manpower = 209078 # updated
 	
 	state_category = small_island
 	
 	history=
 	{
-		owner = ITA
+		owner = GRE
 		victory_points = {
 			10007 1 
 		}

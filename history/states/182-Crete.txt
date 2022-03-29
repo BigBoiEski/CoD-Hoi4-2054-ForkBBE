@@ -1,7 +1,7 @@
 state = {
 	id=182
-	name="STATE_182"
-	manpower = 387900
+	name="STATE_182" # crete
+	manpower = 700155 # updated
 	
 	state_category = town
 	history = {

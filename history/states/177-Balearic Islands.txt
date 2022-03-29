@@ -2,7 +2,7 @@ state=
 {
 	id=177
 	name="STATE_177"
-	manpower = 365500
+	manpower = 1724190 # updated: 1.5 mp increase because of german tourists
 	
 	state_category = rural
 	

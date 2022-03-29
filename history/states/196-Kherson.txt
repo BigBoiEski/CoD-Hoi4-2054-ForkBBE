@@ -2,9 +2,9 @@
 state={
 	id=196
 	name="STATE_196"
-	manpower = 728363
+	manpower = 2037750 # updated
 	
-	state_category = rural
+	state_category = large_town
 	
 	resources={
 		chromium=15 # was: 22

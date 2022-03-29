@@ -2,9 +2,9 @@
 state={
 	id=244
 	name="STATE_244" # Volkhov
-	manpower = 195325
+	manpower = 502902 # updated
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = SOV

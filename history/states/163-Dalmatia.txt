@@ -2,9 +2,9 @@ state=
 {
 	id=163
 	name="STATE_163"
-	manpower = 18000
+	manpower = 36000 # updated
 	
-	state_category = enclave
+	state_category = town
 	
 	history={
 		owner = GER

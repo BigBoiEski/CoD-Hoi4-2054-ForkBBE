@@ -2,9 +2,9 @@
 state={
 	id=162
 	name="STATE_162"
-	manpower = 5320000
+	manpower = 4095001 # updated
 	
-	state_category = large_city
+	state_category = city
 
 	history={
 		owner = NIF
