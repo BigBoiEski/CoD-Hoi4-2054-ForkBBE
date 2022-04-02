@@ -2,10 +2,10 @@
 state={
 	id=273
 	name="STATE_273" # Libyan Desert
-	manpower = 42633
+	manpower = 246980 # updated
 	
-	state_category = wasteland
-	impassable = yes
+	state_category = rural
+	impassable = no
 
 	history={
 		owner = MAG

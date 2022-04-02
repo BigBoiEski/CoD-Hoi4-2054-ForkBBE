@@ -2,9 +2,9 @@
 state={
 	id=278
 	name="STATE_278" # Pampas
-	manpower = 5596366
+	manpower = 34562340 # updated
 	
-	state_category = large_city
+	state_category = metropolis
 
 	history={
 		owner = ARG

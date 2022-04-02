@@ -2,10 +2,10 @@
 state={
 	id=268
 	name="STATE_268"
-	manpower = 85232
+	manpower = 1038320 # updated
 
 
-	state_category = enclave
+	state_category = town
 
 	history={
 		owner = DJI

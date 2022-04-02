@@ -2,9 +2,9 @@
 state={
 	id=281
 	name="STATE_281"
-	manpower=79300
+	manpower=663750 # updated
 	
-	state_category = enclave
+	state_category = small_island
 
 	history={
 		owner = MLD

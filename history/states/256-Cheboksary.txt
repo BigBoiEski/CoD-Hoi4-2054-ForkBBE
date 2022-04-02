@@ -2,7 +2,7 @@
 state = {
 	id = 256
 	name = "STATE_256"
-	manpower = 786030 #Was 1572061 but was divided by 2 due to the state being split in half
+	manpower = 2378076 #updated
 	
 	state_category = town
 

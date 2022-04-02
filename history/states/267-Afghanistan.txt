@@ -2,9 +2,9 @@
 state={
 	id=267
 	name="STATE_267" # Kabul
-	manpower = 4637140
+	manpower = 21761680 # updated
 	
-	state_category = town
+	state_category = city
 	
 	resources={
 		tungsten=3 # was: 3

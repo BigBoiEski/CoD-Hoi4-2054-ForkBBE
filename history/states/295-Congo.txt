@@ -2,9 +2,9 @@
 state={
 	id=295
 	name="STATE_295" # Leopoldville
-	manpower = 3540948
+	manpower = 69229248 # updated
 	
-	state_category = rural
+	state_category = city
 	
 	resources={
 		tungsten=2 # was: 2

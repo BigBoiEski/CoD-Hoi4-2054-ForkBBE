@@ -2,9 +2,9 @@
 state={
 	id=320
 	name="STATE_320"
-	manpower = 286410
+	manpower = 1140346 # updated
 
-	state_category = enclave
+	state_category = city
 
 	history={
 		owner = PCI

@@ -2,9 +2,9 @@
 state={
 	id=257
 	name="STATE_257" # Tambov
-	manpower = 1779583
+	manpower = 2183988 # updated
 	
-	state_category = rural
+	state_category = town
 	
 	resources={
 		chromium=7 # was: 10

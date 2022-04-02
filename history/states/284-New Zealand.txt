@@ -2,7 +2,7 @@
 state={
 	id=284
 	name="STATE_284" # North Island
-	manpower = 899836
+	manpower = 3722598 # updated
 	
 	state_category = city
 	

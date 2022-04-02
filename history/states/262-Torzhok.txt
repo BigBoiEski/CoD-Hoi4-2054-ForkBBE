@@ -2,9 +2,9 @@
 state = {
 	id = 262
 	name = "STATE_262" # Pechora
-	manpower = 21795
+	manpower = 811070 # updated
 	
-	state_category = rural
+	state_category = town
 	
 	resources = {
 		oil = 7 # was: 8
