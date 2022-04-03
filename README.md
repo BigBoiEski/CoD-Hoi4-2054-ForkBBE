@@ -29,6 +29,7 @@ THE PLAN™️
 -- Others
 
 - Prettiness and immersion
+-- Flags
 -- Custom Sprites for stuff:
 --- Focuses
 --- Spirits
