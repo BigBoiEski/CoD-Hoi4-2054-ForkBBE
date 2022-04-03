@@ -5,22 +5,22 @@ In its current state, the mod is only for looking at in the nudge tool. Starting
 
 THE PLAN™️
 
-- More manpower in states  <- we are here
+More manpower in states  <- we are here
 
-- More building slots for some states in some countries + starting factories 
+More building slots for some states in some countries + starting factories 
 
-- Create new Ideologies
+Create new Ideologies
 
-- Create new tech tree 
+Create new tech tree 
 
-- Countries' basic History files
+Countries' basic History files:
 - unique starting production queue and techs research for each cuntry! fun!
 - ideology & popularities
 - leader
 
-- Starting Date & Descriptions for countries
+Starting Date & Descriptions for countries
 
-- Focus Trees ( with community input)
+Focus Trees ( with community input)
 - 1: Eurasia
 - 2: USA
 - 3: Germany
@@ -28,7 +28,7 @@ THE PLAN™️
 - 5: Japan
 - Others
 
-- Prettiness and immersion
+Prettiness and immersion
 -- Flags
 -- Custom Sprites for stuff:
 --- Focuses
@@ -38,7 +38,7 @@ THE PLAN™️
 -- Models
 -- Music
 
-- International Localisation 
+International Localisation 
 -- German
 -- Chinese
 
