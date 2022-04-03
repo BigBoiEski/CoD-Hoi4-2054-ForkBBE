@@ -14,19 +14,19 @@ THE PLAN™️
 - Create new tech tree 
 
 - Countries' basic History files
--- unique starting production queue and techs research for each cuntry! fun!
--- ideology & popularities
--- leader
+- unique starting production queue and techs research for each cuntry! fun!
+- ideology & popularities
+- leader
 
 - Starting Date & Descriptions for countries
 
 - Focus Trees ( with community input)
--- 1: Eurasia
--- 2: USA
--- 3: Germany
--- 4: Pandavas
--- 5: Japan
--- Others
+- 1: Eurasia
+- 2: USA
+- 3: Germany
+- 4: Pandavas
+- 5: Japan
+- Others
 
 - Prettiness and immersion
 -- Flags
@@ -41,3 +41,13 @@ THE PLAN™️
 - International Localisation 
 -- German
 -- Chinese
+
+Planned Ideologies:
+- Technocratic
+- Theocratic
+- Ultranationalism
+- Monarchism
+- Militarism
+- Socialism
+- Eurasianism
+- Revanchism 
