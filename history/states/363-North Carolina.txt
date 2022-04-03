@@ -2,9 +2,9 @@
 state={
 	id=363
 	name="STATE_363"
-	manpower = 3170274
+	manpower = 11483326 # updated
 	
-	state_category = city
+	state_category = large_city
 
 	history={
 		owner = USA

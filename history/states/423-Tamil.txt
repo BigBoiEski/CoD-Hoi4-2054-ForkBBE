@@ -2,13 +2,15 @@
 state={
 	id=423
 	name="STATE_423" # Madurai
-	manpower = 29147500
+	manpower = 126631962 # updated
 	
-	state_category = rural
+	state_category = metropolis
 	
 	resources={
 		rubber=19 # was: 28
 	}
+	
+	buildings_max_level_factor = 2
 
 	history={
 		owner = PCI

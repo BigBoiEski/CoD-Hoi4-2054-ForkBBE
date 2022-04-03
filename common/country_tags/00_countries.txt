@@ -239,12 +239,10 @@ PAP = "countries/Papal States.txt"
 NAP = "countries/Naples.txt"
 NIF = "countries/North Italian Federation.txt"
 #french
-RIN = "countries/Rhineland.txt"
 FQA = "countries/Francafrique.txt"
 ARA = "countries/Aragon.txt"
 BSQ = "countries/Basque.txt"
 CAT = "countries/Catalonia.txt"
-FHL = "countries/French Holland.txt"
 #eurasia
 BRN = "countries/Brandenburg.txt"
 SAX = "countries/Saxony.txt"

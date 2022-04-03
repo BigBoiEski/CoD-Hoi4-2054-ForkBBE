@@ -819,19 +819,15 @@ NIF = {
 	color = rgb { 104 137 110 }
     color_ui = rgb { 104 137 110 }
 }
-RIN = {
-	color = rgb { 35 97 190 }
-    color_ui = rgb { 35 97 190 }
-}
 LUX = {
-	color = rgb { 35 97 190 }
-	color_ui = rgb { 35 97 190 }
+	color = rgb { 65 175 179 }
+	color_ui = rgb { 85 228 233 }
 }
-BEL = { color = rgb { 35 97 190 }
-		color_ui = rgb { 35 97 190 }
-	  }
+BEL = { color = rgb { 193 171 8 }
+		color_ui = rgb { 251 222 10 }
+}
 HOL = {	color = rgb { 203 138 74 }
-		color_ui = rgb { 203 138 74 }
+		color_ui = rgb { 255 179 96 }
 }
 BRN = {	color = rgb { 85 101 181 }
 		color_ui = rgb { 85 101 181 }
@@ -1014,10 +1010,6 @@ JAP = {
 PAL = {
 	color = rgb { 226 255 112 }
 	color_ui = rgb { 226 255 112 }
-}
-FHL = {
-	color = rgb { 31 101 198 }
-	color_ui = rgb { 31 101 198 }
 }
 AF1 = {
 	color = rgb { 230 193 34 }

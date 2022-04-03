@@ -2,8 +2,8 @@
 state={
 	id=424
 	name="STATE_424" # Madras
-	manpower = 15791700
-	state_category = rural
+	manpower = 59264158 # updated
+	state_category = city
 	
 
 	history={

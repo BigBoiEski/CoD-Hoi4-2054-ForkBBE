@@ -2,12 +2,12 @@
 state = {
 	id = 409
 	name = "STATE_409"
-	manpower = 295605
+	manpower = 1356497 # updated
 	resources = {
 		chromium = 9 # was: 12
 	}
 	
-	state_category = rural
+	state_category = town
 
 	history = {
 		owner = SOV

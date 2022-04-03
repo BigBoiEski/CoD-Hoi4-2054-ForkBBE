@@ -2,13 +2,13 @@
 state={
 	id=412
 	name="STATE_412"
-	manpower = 918619
+	manpower = 11997227 # updated
 	resources={
 		oil=10 # was: 12
 	}
 
 
-	state_category = rural
+	state_category = large_town
 	history={
 		owner = PER
 		victory_points = {

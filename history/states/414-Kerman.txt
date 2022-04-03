@@ -2,9 +2,9 @@
 state={
 	id=414
 	name="STATE_414"
-	manpower = 486013
+	manpower = 6086578 # updated
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		owner = PER
