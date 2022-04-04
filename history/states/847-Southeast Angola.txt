@@ -1,14 +1,14 @@
 state={
 	id=847
-	name="STATE_847"
+	name="STATE_848"
 	provinces={
-		2207 2229 4879 5154 10963 
+		1552 2126 4735 
 	}
 	history = {
 		victory_points = {
-			10963 1 
+			1552 1 
 		}
-		owner = AF3
+		owner = AF1
 	}
 	state_category = wasteland
 	manpower=10 # placeholder
