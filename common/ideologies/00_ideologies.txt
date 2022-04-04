@@ -28,7 +28,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 		
-		color = { 255 0 0 }
+		color = { 150 0 5 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -62,7 +62,12 @@ ideologies = {
 		
 		types = {
 		
-			socialism = {
+			libertarian_socialism = {
+			}
+			authoritarian_socialism = {
+			}
+			chinese_socialism = {
+				can_be_randomly_selected = no
 			}
 		}
 		
@@ -74,7 +79,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 		
-		color = { 200 0 0 }
+		color = { 234 32 40 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -144,7 +149,7 @@ ideologies = {
 		
 		modifiers = {
 			generate_wargoal_tension = 1.00
-			join_faction_tension = 0.80
+			join_faction_tension = 0.70
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.50
 			guarantee_tension = 0.25
@@ -165,37 +170,37 @@ ideologies = {
 	
 		types = {
 		
-			technocratic_type  = {
+			technocratic_type = {
 			}
 		}
 
 		dynamic_faction_names = {
-			"FACTION_NAME_NONALIGNED_1"
-			"FACTION_NAME_NONALIGNED_2"
-			"FACTION_NAME_NONALIGNED_3"
-			"FACTION_NAME_NONALIGNED_4"
-			"FACTION_NAME_NONALIGNED_5"
+			"FACTION_NAME_TECHNOCRATIC_1"
+			"FACTION_NAME_TECHNOCRATIC_2"
+			"FACTION_NAME_TECHNOCRATIC_3"
+			"FACTION_NAME_TECHNOCRATIC_4"
+			"FACTION_NAME_TECHNOCRATIC_5"
 		}
 		
-		color = { 100 100 124 }
+		color = { 0 200 200 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
 		faction_impact_on_world_tension = 0.1
 		
 		rules = {
-			can_force_government = no
+			can_force_government = yes
 			can_puppet = yes
-			can_send_volunteers = no
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {
 			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.4
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
+			generate_wargoal_tension = 0.3
+			join_faction_tension = 0.3
+			lend_lease_tension = 0.3
+			send_volunteers_tension = 0.3
+			guarantee_tension = 0.3
 			drift_defence_factor = -0.3	
 			civilian_intel_to_others = 20.0
 			army_intel_to_others = 10.0
@@ -206,7 +211,7 @@ ideologies = {
 		faction_modifiers = {
 		}
 
-		ai_neutral = yes # 
+		ai_neutral = no # 
 	}
 
 	neutrality = {
@@ -280,32 +285,32 @@ ideologies = {
 		}
 
 		dynamic_faction_names = {
-			"FACTION_NAME_NONALIGNED_1"
-			"FACTION_NAME_NONALIGNED_2"
-			"FACTION_NAME_NONALIGNED_3"
-			"FACTION_NAME_NONALIGNED_4"
-			"FACTION_NAME_NONALIGNED_5"
+			"FACTION_NAME_THEOCRATIC_1"
+			"FACTION_NAME_THEOCRATIC_2"
+			"FACTION_NAME_THEOCRATIC_3"
+			"FACTION_NAME_THEOCRATIC_4"
+			"FACTION_NAME_THEOCRATIC_5"
 		}
 		
-		color = { 100 124 100 }
+		color = { 234 194 32 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
 		faction_impact_on_world_tension = 0.1
 		
 		rules = {
-			can_force_government = no
+			can_force_government = yes
 			can_puppet = yes
-			can_send_volunteers = no
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {
 			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.4
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
+			generate_wargoal_tension = 0.3
+			join_faction_tension = 0.3
+			lend_lease_tension = 0.3
+			send_volunteers_tension = 0.3
+			guarantee_tension = 0.3
 			drift_defence_factor = -0.3	
 			civilian_intel_to_others = 20.0
 			army_intel_to_others = 10.0
@@ -336,7 +341,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 		
-		color = { 164 164 100 }
+		color = { 85 20 153 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -385,9 +390,9 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 175 50 }
+		color = { 75 83 32 }
 		
-		war_impact_on_world_tension = 1.0			#evil!
+		war_impact_on_world_tension = 1.0 # evil!
 		faction_impact_on_world_tension = 1.0
 		
 		rules = {
@@ -401,7 +406,7 @@ ideologies = {
 		modifiers = {
 			justify_war_goal_when_in_major_war_time = -0.80
 			civilian_intel_to_others = 15.0
-			army_intel_to_others = 10.0
+			army_intel_to_others = 5.0
 			navy_intel_to_others = 10.0
 			airforce_intel_to_others = 10.0
 			hidden_modifier = { join_faction_tension = -0.1 }
@@ -480,10 +485,10 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 80 }
+		color = { 5 0 0 }
 		
-		war_impact_on_world_tension = 1.0			#evil!
-		faction_impact_on_world_tension = 1.0
+		war_impact_on_world_tension = 2.0			# really evil!
+		faction_impact_on_world_tension = 1.5
 		
 		rules = {
 			can_force_government = no
@@ -521,13 +526,13 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 0 75 0 }
+		color = { 10 136 200 }
 		
-		war_impact_on_world_tension = 1.0			#evil!
-		faction_impact_on_world_tension = 1.0
+		war_impact_on_world_tension = 2.0			#really evil!
+		faction_impact_on_world_tension = 1.5
 		
 		rules = {
-			can_force_government = no
+			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
 		}
@@ -562,13 +567,54 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 10 10 10 }
+		color = { 38 38 38 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
 		
 		rules = {
 			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+	fatalism = {
+	
+		types = {
+		
+			fatalism_type = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_TECHNOCRATIC_1"
+			"FACTION_NAME_TECHNOCRATIC_2"
+			"FACTION_NAME_TECHNOCRATIC_3"
+			"FACTION_NAME_TECHNOCRATIC_4"
+			"FACTION_NAME_TECHNOCRATIC_5"
+		}
+		
+		color = { 10 70 70 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
 		}
