@@ -5,7 +5,7 @@ state={
 		tungsten=2 # was: 2.000
 	}
 	
-	state_category = rural
+	state_category = city
 
 	history={
 		owner = PRU
@@ -25,7 +25,7 @@ state={
 	provinces={
 		2182 2210 2225 5202 12953 13086 13175 
 	}
-	manpower=1601278
+	manpower=7506950 # updated
 	buildings_max_level_factor=1.000
 
 	local_supplies=0.0 

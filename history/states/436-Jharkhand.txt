@@ -2,9 +2,9 @@
 state={
 	id=436
 	name="STATE_436" # Jabalpur
-	manpower = 14123100
+	manpower = 183487199 # updated
 	
-	state_category = rural
+	state_category = large_city
 	
 	resources={
 		chromium=4 # was: 6

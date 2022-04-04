@@ -2,9 +2,9 @@
 state={
 	id=443
 	name="STATE_443" # Sind
-	manpower = 3887000
+	manpower = 55068958 # updated
 	
-	state_category = rural
+	state_category = city
 
 	history={
 		owner = PAK

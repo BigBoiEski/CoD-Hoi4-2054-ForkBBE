@@ -2,9 +2,9 @@
 state={
 	id=454
 	name="STATE_454" #Palestine
-	manpower = 933142
+	manpower = 19054000 # updated
 	
-	state_category = rural
+	state_category = metropolis
 
 	history={
 		owner = ISR

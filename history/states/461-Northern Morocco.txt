@@ -6,9 +6,9 @@ state={
 		chromium=12.000 #added due to portugal setup
 	}
 
-	manpower = 3197719
+	manpower = 29311825 # updated
 	
-	state_category = rural
+	state_category = large_city
 	
 	history={
 		owner = MOR
