@@ -1,0 +1,96 @@
+characters={
+	USA_douglas_macarthur={
+		name=USA_douglas_macarthur
+		portraits={
+			army={
+				small="GFX_idea_douglas_macarthur"
+			}
+			army={
+				large=GFX_portrait_USA_douglas_macarthur
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = douglas_macarthur
+			allowed = {
+				original_tag = USA
+			}
+			available = {
+				NOT = {
+					has_country_leader = {
+						ruling_only = yes
+						character = USA_douglas_macarthur
+					}
+				}
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		
+		field_marshal={
+			traits={ brilliant_strategist career_officer media_personality politically_connected offensive_doctrine }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=2
+			legacy_id=57
+		}
+	}
+	USA_dwight_d_eisenhower={
+		name=USA_dwight_d_eisenhower
+		portraits={
+			army={
+				large=GFX_portrait_USA_dwight_d_eisenhower
+			}
+			army={
+				small="GFX_idea_dwight_eisenhower"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = dwight_eisenhower
+			allowed = {
+					original_tag = USA
+				}
+				traits = {
+					army_chief_offensive_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		
+		field_marshal={
+			traits={ trait_cautious armor_officer politically_connected organizer logistics_wizard offensive_doctrine }
+			skill=5
+			attack_skill=3
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=5
+			legacy_id=602
+		}
+	}
+	# cod starts here
+	USA_john_winston={
+		name=USA_john_winston
+		portraits={
+			civilian={
+				large=GFX_portrait_USA_john_winston
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			id=-1
+			expire = "2100.1.1.1"
+			# TODO: add description
+		}
+	}
+
+}

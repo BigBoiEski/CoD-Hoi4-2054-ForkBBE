@@ -62,6 +62,8 @@ ideologies = {
 		
 		types = {
 		
+			socialism = {
+			}
 			libertarian_socialism = {
 			}
 			authoritarian_socialism = {
