@@ -2,8 +2,8 @@
 state={
 	id=565
 	name="STATE_565" # Bodaybo
-	manpower = 195325
-	state_category = rural
+	manpower = 2914500 # updated
+	state_category = town
 	resources={
 		steel=10 # was: 32
 		chromium=5 # was: 12

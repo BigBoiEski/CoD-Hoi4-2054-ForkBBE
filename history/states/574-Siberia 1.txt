@@ -2,7 +2,7 @@
 state = {
 	id = 574
 	name = "STATE_574" # Yakutsk
-	manpower = 407866
+	manpower = 1150234 # updated
 	
 	state_category = pastoral
 

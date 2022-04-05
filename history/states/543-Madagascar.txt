@@ -2,9 +2,9 @@
 state={
 	id=543
 	name="STATE_543"
-	manpower = 3694611
+	manpower = 30459000 # updated
 	
-	state_category = rural
+	state_category = large_town
 	
 	history={
 		add_core_of = MAD

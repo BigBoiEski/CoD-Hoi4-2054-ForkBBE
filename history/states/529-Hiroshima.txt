@@ -2,7 +2,7 @@
 state={
 	id=529
 	name="STATE_529" # Chugoku
-	manpower = 5341000
+	manpower = 151269 # updated
 	state_category = wasteland
 
 	history={

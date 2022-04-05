@@ -2,8 +2,8 @@ state={
 	id=515
 	name="STATE_515"
 	
-	state_category = pastoral
-	impassable = yes
+	state_category = town
+	impassable = no
 
 	history={
 		owner = FQA
@@ -19,7 +19,7 @@ state={
 	provinces={
 		1956 4913 7939 8028 8128 10758 10780 10805 10917
 	}
-	manpower=1456356
+	manpower=12594718 # updated
 	buildings_max_level_factor=1.000
 
 	local_supplies=0.0 

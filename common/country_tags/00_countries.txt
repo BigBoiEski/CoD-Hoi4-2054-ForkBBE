@@ -267,6 +267,7 @@ AF2 = "countries/UN Peacekeeping Force.txt"
 AF3 = "countries/Kouassi Brigade.txt"
 AF4 =  "countries/New Dahomeys.txt"
 AF5 = "countries/Sons of Shaka.txt"
+AF6 = "countries/Shattered Africa.txt"
 
 #middle east and south+ south east asia
 BSR = "countries/Basra.txt"
@@ -278,6 +279,7 @@ TWN = "countries/Taiwan.txt"
 SIN = "countries/Singapore.txt"
 BRU = "countries/Brunei.txt"
 PLU = "countries/Palau.txt"
+
 #japans
 JBS = "countries/Empire of the Black Sun.txt"
 JPC = "countries/People's Republic of Japan.txt"

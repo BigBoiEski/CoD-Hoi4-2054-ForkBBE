@@ -2,7 +2,7 @@
 state = {
 	id = 516
 	name = "STATE_516" # Taymyria
-	manpower = 21974
+	manpower = 103276 # updated
 	
 	state_category = pastoral
 

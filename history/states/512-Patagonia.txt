@@ -2,9 +2,9 @@
 state={
 	id=512
 	name="STATE_512"
-	manpower = 226638
+	manpower = 2310207
 	
-	state_category = rural
+	state_category = town
 	
 	resources={
 		oil=5 # was: 6

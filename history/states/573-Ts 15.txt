@@ -2,9 +2,9 @@
 state={
 	id=573
 	name="STATE_573" # Zlatoust
-	manpower = 556677
+	manpower = 3128595 # updated
 	
-	state_category = pastoral
+	state_category = town
 	resources={
 		chromium=23 # was: 32
 	}

@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = BOT
+		owner = AF6
+		add_core_of = AF6
 		buildings = {
 			infrastructure = 1
 
@@ -22,7 +23,7 @@ state={
 	provinces={
 		1580 8214 10525 12940 
 	}
-	manpower=234000
+	manpower=575000 # updated
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=2.000

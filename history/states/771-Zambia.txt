@@ -8,7 +8,8 @@ state={
 	}
 
 	history={
-		owner = ZAM
+		owner = AF6
+		add_core_of = AF6
 		add_core_of = ZAM
 		victory_points = {
 			5199 1 

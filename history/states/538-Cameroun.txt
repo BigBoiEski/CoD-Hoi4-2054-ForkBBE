@@ -2,9 +2,9 @@
 state={
 	id=538
 	name="STATE_538" # Central Congo
-	manpower = 1693974
+	manpower = 33028600 # updated
 	
-	state_category = wasteland
+	state_category = town
 	resources={
 		rubber=5 # was: 5
 	}

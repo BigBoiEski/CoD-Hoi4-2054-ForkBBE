@@ -2,7 +2,7 @@
 state={
 	id=532
 	name="STATE_532" # Tokai
-	manpower = 6174000
+	manpower = 279548 # updated
 	state_category = wasteland
 
 	history={

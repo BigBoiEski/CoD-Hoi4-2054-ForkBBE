@@ -2,8 +2,8 @@
 state = {
 	id = 562
 	name = "STATE_562" # Okhotsk
-	manpower = 126961
-	state_category = pastoral
+	manpower = 1965759 # updated
+	state_category = town
 
 	history={
 		owner = SOV

@@ -2,9 +2,9 @@
 state={
 	id=507
 	name="STATE_507" # Magallanes
-	manpower = 68693
+	manpower = 1208238 # updated
 	
-	state_category = pastoral
+	state_category = town
 
 	history={
 		owner = CHL

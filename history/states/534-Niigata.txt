@@ -2,7 +2,7 @@
 state={
 	id=534
 	name="STATE_534" # Hokuriku
-	manpower = 1933000
+	manpower = 43816 # updated
 	
 	state_category = wasteland
 

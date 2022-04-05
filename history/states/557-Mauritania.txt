@@ -2,9 +2,9 @@
 state={
 	id=557
 	name="STATE_557" # Mauritania
-	manpower = 225000
+	manpower = 1945789 #updated
 	
-	state_category = pastoral
+	state_category = rural
 
 	history={
 		owner = MRT

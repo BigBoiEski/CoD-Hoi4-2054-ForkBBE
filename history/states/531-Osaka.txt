@@ -2,7 +2,7 @@
 state={
 	id=531
 	name="STATE_531" # Kansai
-	manpower = 11015000
+	manpower = 455158 # updated
 	state_category = wasteland
 	resources={
 		aluminium=3 # was: 6

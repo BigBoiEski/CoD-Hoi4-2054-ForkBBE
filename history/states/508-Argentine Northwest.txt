@@ -2,9 +2,9 @@
 state={
 	id=508
 	name="STATE_508" # Tucuman
-	manpower = 781311
+	manpower = 5240474 # updated
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = ARG
