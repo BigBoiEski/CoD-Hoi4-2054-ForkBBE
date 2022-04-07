@@ -140,8 +140,16 @@ set_popularities = {
 
 add_ideas = {
 	home_of_the_free
+	USA_great_awakening
+	USA_post_automation
+	USA_second_amendment
 }
-
+create_country_leader = {
+	name=USA_john_winston
+	picture= "Portrait_USA_John_Winston.dds"
+	ideology=liberalism
+	expire = "2100.1.1.1"
+}
 
 
 ### VARIANTS ###

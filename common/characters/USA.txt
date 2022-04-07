@@ -77,20 +77,4 @@ characters={
 			legacy_id=602
 		}
 	}
-	# cod starts here
-	USA_john_winston={
-		name=USA_john_winston
-		portraits={
-			civilian={
-				large=GFX_portrait_USA_john_winston
-			}
-		}
-		country_leader={
-			ideology=liberalism
-			id=-1
-			expire = "2100.1.1.1"
-			# TODO: add description
-		}
-	}
-
 }

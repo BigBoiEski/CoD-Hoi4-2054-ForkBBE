@@ -1,0 +1,40 @@
+ideas = {
+		country = {
+		USA_great_awakening = {	
+			picture = usa_great_awakening
+			allowed = {
+				tag = USA
+			}
+
+			modifier = {
+				research_speed_factor = -0.05
+				war_support_factor = 0.10
+				recruitable_population_factor = 0.025
+			}
+		}
+		USA_post_automation = {
+
+			picture = usa_post_automation
+			allowed = {
+				tag = USA
+			}	
+
+			modifier = {
+				training_time_army_factor = -0.10
+				production_speed_buildings_factor = 0.075
+			}
+		}
+		USA_second_amendment = {
+			picture = usa_second_amendment
+			allowed = {	
+			tag = USA
+		}	
+
+			modifier = {
+				stability_factor = -0.05
+				army_core_defence_factor = 0.25
+				resistance_damage_to_garrison_on_our_occupied_states = 2
+			}
+		}
+	}
+}

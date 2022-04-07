@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  USA_technocratic_party:0 "Futurist Party"
  USA_democratic_party:0 "Democratic Party"
  USA_patriot_party:0 "Patriot Party"
@@ -14,3 +14,11 @@ l_english:
  USA_eurasianism_party:0 "American-Eurasian Union Party" 
  USA_fatalism_party:0 "FATES worshippers" 
  USA_revanchism_party:0 "Authority for Reconstruction of American Dominance" 
+ USA_john_winston:0 "John Winston"
+
+ USA_great_awakening:0 "The 5th Great Awakening"
+ USA_great_awakening_desc:0 "The Culture Wars have been unexpectedly won with the advent of the 5th Great Awakening of the 2040's, which led to the resurgence and spread of Evangelical, Pentacostal and Charismatic sects across the United States. The United States has become overwhelmingly Christian, with its secular constitution warped and changed to fit the agenda of Christian Nationalists."
+ USA_post_automation:0 "Post-Automation Economy"
+ USA_post_automation_desc:0 "America is one of the first nations to advance into a post-scarcity economy, and with it has automated a large portion of their lower and lower-middle class into unemployment. UBI programs such as the Yang Program has alleviated the class divide somewhat, but the struggle between the haves and have-nots are still ongoing. The United States is the first economy of its kind, and as a result has a considerably stronger economy."
+ USA_second_amendment:0 "The 2nd Amendment"
+ USA_second_amendment_desc:0 ""Shall not be infringed" has become a rallying cry for the American nationalist right. American civilian firearm ownership is higher today than even the ludicrious heights of the 2020's. Supporters say it is a bulwark against tyranny, and a deterrent to invasion, while detractors say an invasion of the mainland US is a lunatic conspiracy theory, and that they could never fight the government on even ground."

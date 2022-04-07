@@ -1,0 +1,18 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_idea_usa_great_awakening"
+		texturefile = "gfx/interface/ideas/usa_great_awakening.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_usa_post_automation"
+		texturefile = "gfx/interface/ideas/usa_post_automation.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_usa_second_amendment"
+		texturefile = "gfx/interface/ideas/usa_second_amendment.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_usa_john_winston"
+		texturefile = "gfx/leaders/USA/Portrait_USA_John_Winston.dds"
+	}
+}
