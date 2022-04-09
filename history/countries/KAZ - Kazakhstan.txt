@@ -80,8 +80,9 @@ if = {
 }
 
 set_popularities = {
-	democratic = 60
-	communism = 40
+	fascism = 100
+	democratic = 0
+	communism = 0
 }
 
 create_country_leader = {
