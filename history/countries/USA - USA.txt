@@ -117,7 +117,6 @@ if = {
 		mtg_transport = 1
 		improved_airplane_launcher = 1
 	}
-	add_ideas = MTG_naval_treaty_adherent
 }
 
 #Monroe Doctrine
@@ -125,7 +124,9 @@ give_guarantee = CAN
 give_guarantee = NMX
 
 set_convoys = 500
-
+recruit_character = USA_amir_xerxes
+recruit_character = USA_john_winston
+recruit_character = USA_elon_musk
 
 set_politics = {
 	ruling_party = democratic
@@ -143,13 +144,6 @@ add_ideas = {
 	USA_great_awakening
 	USA_post_automation
 	USA_second_amendment
-}
-create_country_leader = {
-	name=USA_john_winston
-	picture= "Portrait_USA_John_Winston.dds"
-	ideology=liberalism
-	expire = "2100.1.1.1"
-	desc = USA_john_winston_desc
 }
 
 

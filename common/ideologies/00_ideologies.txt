@@ -7,13 +7,7 @@ ideologies = {
 			marxism = {
 			}
 			
-			leninism = {
-			}
-			
 			stalinism = {
-			}
-			
-			anti_revisionism = {
 			}
 			
 			anarchist_communism = {
@@ -120,6 +114,14 @@ ideologies = {
 		
 			liberalism = {
 			}
+			libertarianism = {
+
+			}	
+			moderatism = {
+			}
+			
+			centrism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -172,7 +174,11 @@ ideologies = {
 	
 		types = {
 		
-			technocratic_type = {
+			authoritarian_technocratic = {
+			}
+			democratic_technocratic = {
+			}
+			corporatist_technocratic = {
 			}
 		}
 
@@ -229,12 +235,7 @@ ideologies = {
 			anarchism = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
-			
-			moderatism = {
-			}
-			
-			centrism = {
-			}
+
 		}
 
 		dynamic_faction_names = {
@@ -281,9 +282,12 @@ ideologies = {
 	
 		types = {
 		
-			theocratic_type  = {
+			muslim_theocratic = {
 			}
-
+			pope_theocratic = {
+			}
+			christian_theocratic = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -330,7 +334,7 @@ ideologies = {
 	
 		types = {
 		
-			monarchism_type  = {
+			monarchism_ideology  = {
 			}
 
 		}
@@ -379,7 +383,9 @@ ideologies = {
 	
 		types = {
 		
-			militarism_type = {
+			militarism = {
+			}
+			imperialist_militarism = {
 			}
 
 		}
@@ -435,6 +441,11 @@ ideologies = {
 			
 			rexism = {
 			}
+			pyongism = {
+			}
+			new_pandavas = {
+
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -474,7 +485,7 @@ ideologies = {
 	
 		types = {
 		
-			revanchism_type = {
+			revanchism_ideology = {
 			}
 
 		}
@@ -516,7 +527,7 @@ ideologies = {
 	
 		types = {
 		
-			eurasianism_type = {
+			eurasianism_ideology = {
 			}
 		}
 		
@@ -553,52 +564,11 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 
-	ultranationalism = {
-	
-		types = {
-		
-			ultranationalism_type = {
-			}
-		}
-		
-		dynamic_faction_names = {
-			"FACTION_NAME_FASCIST_1"
-			"FACTION_NAME_FASCIST_2"
-			"FACTION_NAME_FASCIST_3"
-			"FACTION_NAME_FASCIST_4"
-			"FACTION_NAME_FASCIST_5"
-		}
-		
-		color = { 38 38 38 }
-		
-		war_impact_on_world_tension = 1.0			#evil!
-		faction_impact_on_world_tension = 1.0
-		
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = yes
-		}
-		
-		can_collaborate = yes
-		
-		modifiers = {
-			justify_war_goal_when_in_major_war_time = -0.80
-			civilian_intel_to_others = 15.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
-			hidden_modifier = { join_faction_tension = -0.1 }
-		}
-
-		ai_fascist = yes # uses the fascist AI behaviour
-	}
-
 	fatalism = {
 	
 		types = {
 		
-			fatalism_type = {
+			fatalism_ideology = {
 			}
 		}
 		

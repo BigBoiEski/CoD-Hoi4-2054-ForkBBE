@@ -77,4 +77,49 @@ characters={
 			legacy_id=602
 		}
 	}
+	USA_john_winston={
+		name=USA_john_winston
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_john_winston
+			}
+		}
+		country_leader = {
+			name=USA_john_winston
+			traits = { appeaser }
+			ideology=liberalism
+			expire = "2100.1.1.1"
+			desc = USA_john_winston_desc
+		}
+	}
+	USA_amir_xerxes={
+		name=USA_amir_xerxes
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_john_winston
+			}
+		}
+		country_leader = {
+			name=USA_amir_xerxes
+			traits = { capitain_of_industry }
+			ideology=corporatist_technocratic
+			expire = "2100.1.1.1"
+			desc = USA_amir_xerxes_desc
+		}
+	}
+	USA_elon_musk={
+		name=USA_elon_musk
+		portraits={
+			army={
+				small=GFX_portrait_usa_elon_musk_small
+			}
+		}
+		advisor= {
+			slot = poltiical_advisor
+			cost = 150
+			idea_token = elon_musk
+			traits = { technocratic_speaker }
+			expire = "2100.1.1.1"
+		}
+	}
 }
