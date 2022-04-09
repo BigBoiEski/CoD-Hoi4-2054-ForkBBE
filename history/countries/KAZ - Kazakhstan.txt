@@ -85,26 +85,11 @@ set_popularities = {
 	communism = 0
 }
 
-create_country_leader = {
-	name = "Nikolay Aleksandrovich Skvortsov"
-	desc = ""
-	picture = GFX_portrait_Nikolay_Aleksandrovich_Skvortsov
-	expire = "1953.3.1"
-	ideology = stalinism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ilyas Zhansugurov"
-	desc = ""
-	picture = GFX_portrait_Ilyas_Zhansugurov
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
+set_politics = {
+	ruling_party = fascism
+	last_election = "1953.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }
 
 recruit_character = KAZ_awt
@@ -127,8 +112,4 @@ recruit_character = KAZ_ai2
 recruit_character = KAZ_democratic_guy
 recruit_character = KAZ_ar
 recruit_character = KAZ_acgs
-
-
-
-
 
