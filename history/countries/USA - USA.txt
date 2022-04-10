@@ -144,7 +144,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	home_of_the_free
 	USA_great_awakening
 	USA_post_automation
 	USA_second_amendment
