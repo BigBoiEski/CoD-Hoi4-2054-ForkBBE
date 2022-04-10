@@ -102,7 +102,7 @@ characters={
 		country_leader = {
 			name=USA_amir_xerxes
 			traits = { capitain_of_industry }
-			ideology=corporatist_technocratic
+			ideology=democratic_technocratic
 			expire = "2100.1.1.1"
 			desc = USA_amir_xerxes_desc
 		}

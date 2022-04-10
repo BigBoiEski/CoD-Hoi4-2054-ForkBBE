@@ -129,13 +129,17 @@ recruit_character = USA_john_winston
 recruit_character = USA_elon_musk
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "2056.5.8"
+	ruling_party = centrism
+	last_election = "2052.5.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 78
+	centrism = 22
+	conservatism = 18
+	progressivism = 13
+	libertarianism = 13
+	national_conservatism = 12
 	technocratic = 22
 }
 

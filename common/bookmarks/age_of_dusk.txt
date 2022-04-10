@@ -1,0 +1,27 @@
+bookmarks = {
+	bookmark = {
+		name = "AGE_OF_DUSK_NAME"
+		desc = "AGE_OF_DUSK_DESC"
+		date = 2054.1.1.12
+		picture = "GFX_select_date_2054"
+		default_country = "USA"
+		default = yes
+		USA = {
+			history = "USA_AGE_OF_DUSK_DESC"
+			ideology = centrism
+			minor = no
+			ideas = {
+				USA_great_awakening
+				USA_second_amendment
+				USA_post_automation
+			}
+		}
+		"---"={
+			history = "OTHER_AGE_OF_DUSK_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

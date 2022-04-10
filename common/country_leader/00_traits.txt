@@ -2610,18 +2610,20 @@ leader_traits = {
 			}
 		}
 	}
-	
 	democratic_reformer = {
 		random = no
-		# Boosts Democracy
+		# Boosts Democratic ideas
 		sprite = 13
-		democratic_drift = 0.1
-		
+		centrism_drift = 0.04
+		conservatism_drift = 0.03
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
+
 		ai_will_do = {
 			factor = 0
 		}
 	}
-	
 	fascist_demagogue = {
 		random = no
 		# Boosts Fascism
