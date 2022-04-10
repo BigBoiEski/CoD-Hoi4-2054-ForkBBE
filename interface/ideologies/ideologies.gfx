@@ -1,0 +1,54 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_ideology_progressivism_group"
+		texturefile = "gfx/interface/ideologies/progressivism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_centrism_group"
+		texturefile = "gfx/interface/ideologies/centrism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_conservatism_group"
+		texturefile = "gfx/interface/ideologies/progressivism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_national_conservatism_group"
+		texturefile = "gfx/interface/ideologies/nationalist_conservatism_group.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_socialist_group"
+		texturefile = "gfx/interface/ideologies/libertarianism_group.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_theocratic_group"
+		texturefile = "gfx/interface/ideologies/theocratic_group.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_monarchism_group"
+		texturefile = "gfx/interface/ideologies/monarchism_group.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_monarchism_group"
+		texturefile = "gfx/interface/ideologies/monarchism_group.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_pyongism"
+		texturefile = "gfx/interface/ideologies/pyongism.dds"
+	}
+    spriteType = {
+    	name = "GFX_ideology_new_pandavas"
+		texturefile = "gfx/interface/ideologies/new_pandavas.dds"
+	}
+    spriteType = {
+    	name = "GFX_ideology_revanchism_group"
+		texturefile = "gfx/interface/ideologies/revanchism_group.dds"
+	}
+    spriteType = {
+    	name = "GFX_ideology_polish_revanchism"
+		texturefile = "gfx/interface/ideologies/polish_revanchism.dds"
+	}
+    spriteType = {
+    	name = "GFX_ideology_fatalism_group"
+		texturefile = "gfx/interface/ideologies/fatalism_group.dds"
+	}
+}

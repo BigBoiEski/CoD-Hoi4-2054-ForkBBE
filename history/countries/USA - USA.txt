@@ -127,6 +127,10 @@ set_convoys = 500
 recruit_character = USA_amir_xerxes
 recruit_character = USA_john_winston
 recruit_character = USA_elon_musk
+recruit_character = USA_ronald_hutchinson
+recruit_character = USA_nicholas_hammond
+recruit_character = USA_li_bryson
+recruit_character = USA_melinda_watson
 
 set_politics = {
 	ruling_party = centrism

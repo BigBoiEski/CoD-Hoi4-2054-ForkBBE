@@ -122,4 +122,64 @@ characters={
 			expire = "2100.1.1.1"
 		}
 	}
+	USA_ronald_hutchinson={
+		name=USA_ronald_hutchinson
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_ronald_hutchinson
+			}
+		}
+		country_leader = {
+			name=USA_ronald_hutchinson
+			traits = { anti_communist, hawk }
+			ideology=conservatism_ideology
+			expire = "2100.1.1.1"
+			desc = USA_ronald_hutchinson
+		}
+	}
+	USA_nicholas_hammond={
+		name=USA_nicholas_hammond
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_nicholas_hammond
+			}
+		}
+		country_leader = {
+			name=USA_nicholas_hammond
+			traits = { conservative_grandee }
+			ideology=national_conservatism_ideology
+			expire = "2100.1.1.1"
+			desc = USA_nicholas_hammond
+		}
+	}
+	USA_li_bryson={
+		name=USA_li_bryson
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_li_bryson
+			}
+		}
+		country_leader = {
+			name=USA_li_bryson
+			traits = { economist, dealbroker }
+			ideology=libertarianism_ideology
+			expire = "2100.1.1.1"
+			desc = USA_li_bryson
+		}
+	}
+	USA_melinda_watson={
+		name=USA_melinda_watson
+		portraits={
+			civilian={
+				large=GFX_portrait_usa_melinda_watson
+			}
+		}
+		country_leader = {
+			name=USA_melinda_watson
+			traits = { editor }
+			ideology=progressivism_ideology
+			expire = "2100.1.1.1"
+			desc = USA_li_bryson
+		}
+	}
 }

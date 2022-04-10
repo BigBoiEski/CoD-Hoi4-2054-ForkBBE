@@ -88,19 +88,19 @@
  corporatist_technocratic_desc:0 "[PLACEHOLDER]"
 
  muslim_theocratic:0 "Muslim Theocracy"
- muslim_theocratic_desc:0 "[PLACEHOLDER]"
- pope_theocratic:0 "Muslim Theocracy"
- pope_theocratic_desc:0 "[PLACEHOLDER]"
+ muslim_theocratic_desc:0 "An ideology where the right to rule is derived not from the people, but instead adherence to Islamic doctrines. They believe by strong faith in their deity, they can achieve victory over their enemies, and will be provided a better society by divine providence. Islamic theocrats may believe in coverting their population by force, and adopting Sharia principles into legislation."
+ pope_theocratic:0 "Papal Theocracy"
+ pope_theocratic_desc:0 "After becoming the main governing authority in Central Italy, the Vatican was forces to pragmatically change its ideology to a more modern and liberal set of ideals. However, they still retain the mantle of the State of the Church as the protectors of the Catholic world and the guardians of its values and traditions."
  christian_theocratic:0 "Christian Theocracy"
- christian_theocratic_desc:0 "[PLACEHOLDER]"
+ christian_theocratic_desc:0 "An ideology where the right to rule is derived not from the people, but instead adherence to Christian doctrines. They believe by strong faith in their deity, they can achieve victory over their enemies, and will be provided a better society by divine providence. Christian theocrats may believe in coverting their population by force, and adopting Christian principles into legislation."
 
  militarism:0 "Militarism"
- militarism:_desc:0 "[PLACEHOLDER]"
- imperialist_militarism::0 "Imperialist Militarism"
- imperialist_militarism:_desc:0 "[PLACEHOLDER]"
+ militarism_desc:0 "[PLACEHOLDER]"
+ imperialist_militarism:0 "Imperialist Militarism"
+ imperialist_militarism_desc:0 "[PLACEHOLDER]"
 
  monarchism_ideology:0 "Monarchism"
- monarchism_ideology_desc:0 "[PLACEHOLDER]"
+ monarchism_ideology_desc:0 "Monarchism has been touted as an outdated and medieval ideology by most in the turn of the 21st century. However, some have seen it as a stabilizing force in these trying times that could weather the storm of pain and suffering. After all, monarchism has existed for thousands of years while all other ideologies come very recently."
 
  revanchism_ideology:0 "Revanchism"
  revanchism_ideology_desc:0 "Revanchism in a 21st century context is an ideology primarily defined by ultranationalism, and revenge against some perceived wrong to a nation. The ideology is flexible, with adherants who are communist, capitalist, liberal, conservative and even anarchist, but always focused on righting the wrongs of history, and always willing to resort to violent and genocidal ways to achieve these ends."
@@ -110,10 +110,7 @@
  japanese_revanchism_desc:0 "[PLACEHOLDER]"
 
  fatalism_ideology:0 "Fatalism"
- fatalism_ideology_desc:0 "[PLACEHOLDER]"
-
- fatalism_ideology:0 "Fatalism"
- fatalism_ideology_desc:0 "[PLACEHOLDER]"
+ fatalism_ideology_desc:0 "A belief system centered around and defined by its core founder, FATES. Like any ideology based around a single figure, it is not always ideologically consistent, and has many variations. But all strands share a few common beliefs, the belief of the necessity of humans to be guided by higher intelligences to succeed (to which they usually mean FATES), the belief in centralized planning, and a belief in a darwinistic survival of the fittest between individuals, groups, and even ethnic groups. The end-goal of Fatalism is the ascension of humanity by an all consuming assimilation into a central hive-mind."
 
  nazism:0 "Nazism"
  nazism_desc:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer."
@@ -136,6 +133,13 @@
  oligarchism_desc:0 "Oligarchy is a form of government in which a group of people rule with absolute power."
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
+
+ authoritarian_technocratic:0 "Authoritarian Technocratic"
+ authoritarian_technocratic_desc:0 "[PLACEHOLDER]"
+ corporatist_technocratic:0 "Corporatist Technocratic"
+ corporatist_technocratic_desc:0 "[PLACEHOLDER]"
+ democratic_technocratic:0 "Democratic Technocratic"
+ democratic_technocratic_desc:0 "[PLACEHOLDER]"
 
  eurasianism:0 "Eurasianism"
  eurasianism_desc:0 "[PLACEHOLDER]"
