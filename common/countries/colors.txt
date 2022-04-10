@@ -375,8 +375,8 @@ LAO = {
 }
 
 INS = {
-	color = rgb { 40  50  120 }
-	color_ui = rgb { 40  50  120 }
+	color = rgb { 249  36  30 }
+	color_ui = rgb { 249  36  30 }
 }
 
 VIN = {
@@ -936,8 +936,8 @@ BLU = {
 	color_ui = rgb { 120 70 140 }
 }
 IND = {
-	color = rgb { 170 188 26 }
-	color_ui = rgb { 170 188 26 }
+	color = rgb { 225 147 7 }
+	color_ui = rgb { 225 147 7 }
 }
 PCI = {
 	color = rgb { 155 31 17 }
