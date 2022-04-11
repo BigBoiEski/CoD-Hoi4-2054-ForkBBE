@@ -1,9 +1,10 @@
 state={
 	id=670
 	name="STATE_670"
-	manpower = 1184000
+	manpower = 7920000 # updated
 	
-	state_category = pastoral
+	state_category = town
+	buildings_max_level_factor=2.000
 
 	history={
 		owner = LAO

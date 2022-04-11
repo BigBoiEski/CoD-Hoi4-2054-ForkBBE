@@ -2,13 +2,13 @@
 state={
 	id = 657
 	name = "STATE_657" # Birobidzhan
-	manpower = 308380
+	manpower = 494213 # updated
 	resources = {
 		steel=18 # was: 24
 	}
 
 
-	state_category = pastoral
+	state_category = rural
 
 	history = {
 		owner = SOV

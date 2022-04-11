@@ -2,9 +2,9 @@
 state={
 	id=618
 	name="STATE_618" # Dzungaria
-	manpower = 670800
+	manpower = 8995901 # updated
 
-	state_category = pastoral
+	state_category = town
 
 	history={
 		add_core_of = SIK

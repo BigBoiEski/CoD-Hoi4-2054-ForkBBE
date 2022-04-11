@@ -1,11 +1,11 @@
 state={
 	id=696
 	name="STATE_696"
-	manpower=37516
+	manpower=70157 # updated
 	state_category = small_island
 
 	history={
-		owner = USA
+		owner = ENG
 		victory_points = {
 			13010 1
 		}

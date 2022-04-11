@@ -2,9 +2,9 @@
 state={
 	id=613
 	name="STATE_613" # Shanghai
-	manpower = 17305100
+	manpower = 98382331 # updated
 	
-	state_category = large_city
+	state_category = megalopolis
 	
 	history={
 		owner = PRC

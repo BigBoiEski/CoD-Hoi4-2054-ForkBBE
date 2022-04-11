@@ -1,9 +1,9 @@
 state={
 	id=694
 	name="STATE_694"
-	manpower = 444290
+	manpower = 522663 # updated
 
-	state_category = rural
+	state_category = town
 
 	history={
 		add_core_of = GDL

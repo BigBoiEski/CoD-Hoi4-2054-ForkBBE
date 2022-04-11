@@ -2,7 +2,7 @@ state=
 {
 	id=650
 	name="STATE_650"
-	manpower=20
+	manpower=0 # updated
 	state_category = tiny_island
 	
 	history=

@@ -1,9 +1,10 @@
 state={
 	id=700
 	name="STATE_700"
-	manpower = 1768500
+	manpower = 7783205 # updated
 	
-	state_category = pastoral
+	state_category = large_town
+	buildings_max_level_factor = 1.500
 	
 	history=
 	{

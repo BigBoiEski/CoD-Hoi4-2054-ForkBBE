@@ -2,9 +2,10 @@
 state={
 	id=668
 	name="STATE_668"
-	manpower = 579100
+	manpower = 1139026 # updated
 	
-	state_category = pastoral
+	state_category = town
+	buildings_max_level_factor=1.250
 
 	history={
 		owner = INS

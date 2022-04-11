@@ -1,9 +1,9 @@
 state={
 	id=687
 	name="STATE_687"
-	manpower = 309000
+	manpower = 861300 # updated
 	
-	state_category = pastoral
+	state_category = town
 	
 	resources={
 		aluminium=64 # was: 112

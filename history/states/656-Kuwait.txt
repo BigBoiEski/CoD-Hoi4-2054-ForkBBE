@@ -1,9 +1,9 @@
 state={
 	id=656
 	name="STATE_656"
-	manpower = 80000
+	manpower = 4620000 # updated
 	
-	state_category = rural
+	state_category = city
 	
 	history={
 		add_core_of = KUW

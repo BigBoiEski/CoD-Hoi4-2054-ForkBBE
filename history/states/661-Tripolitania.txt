@@ -1,9 +1,9 @@
 state={
 	id=661
 	name="STATE_661"
-	manpower = 17617
+	manpower = 196978 # updated
 	
-	state_category = wasteland
+	state_category = pastoral
 	
 	history={
 		owner = MAG

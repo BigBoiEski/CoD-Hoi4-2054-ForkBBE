@@ -2,7 +2,7 @@
 state={
 	id=640
 	name="STATE_640" # Mandalay
-	manpower = 3944600
+	manpower = 21220727 # updated
 	
 	state_category = town
 	resources={

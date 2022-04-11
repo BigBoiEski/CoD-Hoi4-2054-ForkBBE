@@ -2,9 +2,9 @@
 state = {
 	id = 655
 	name = "STATE_655"
-	manpower = 94759
+	manpower = 284277 # updated
 	
-	state_category = pastoral
+	state_category = rural
 	history = {
 		owner = SOV
 		add_core_of = SOV

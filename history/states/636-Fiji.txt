@@ -2,9 +2,9 @@
 state={
 	id=636
 	name="STATE_636"
-	manpower = 180000
+	manpower = 979000 # updated
 	
-	state_category = small_island
+	state_category = large_town
 
 	history={
 		owner = FIJ
