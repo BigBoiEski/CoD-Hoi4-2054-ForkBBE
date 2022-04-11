@@ -1,12 +1,12 @@
 state={
 	id=711
 	name="STATE_711"
-	manpower=1625	
+	manpower=2027 # updated
 	state_category = tiny_island
 	
 	history=
 	{
-		owner = ENG
+		owner = AUS
 		buildings = {
 			infrastructure = 2
 			13005 = {

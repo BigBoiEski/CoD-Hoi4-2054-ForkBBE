@@ -1,9 +1,9 @@
 state={
 	id=729
 	name="STATE_729"
-	manpower = 157805
+	manpower = 711480 # updated
 	
-	state_category = enclave
+	state_category = city
 	
 	history={
 		owner = PRC
