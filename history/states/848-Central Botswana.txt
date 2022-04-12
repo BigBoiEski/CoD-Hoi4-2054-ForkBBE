@@ -10,8 +10,8 @@ state={
 		}
 		owner = AF4
 	}
-	state_category = wasteland
-	manpower=10 # placeholder
+	state_category = pastoral
+	manpower=460000 # updated
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

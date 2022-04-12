@@ -18,7 +18,7 @@ state={
 		}
 		add_core_of = MON
 	}
-	manpower=88200
+	manpower=148200 # updated
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

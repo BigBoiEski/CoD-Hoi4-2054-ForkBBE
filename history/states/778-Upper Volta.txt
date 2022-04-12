@@ -2,9 +2,10 @@
 state={
 	id=778
 	name="STATE_778" # Upper Volta
-	manpower = 3186184
+	manpower = 22536800 # updated
 	
-	state_category = pastoral
+	state_category = large_town
+	buildings_max_level_factor = 1.250
 	history={
 		owner = FQA
 		add_core_of = FQA

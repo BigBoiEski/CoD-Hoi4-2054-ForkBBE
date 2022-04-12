@@ -428,6 +428,9 @@ ideologies = {
 			anarchism = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
+			no_authority = {
+				can_be_randomly_selected = no
+			}
 
 		}
 
@@ -635,9 +638,13 @@ ideologies = {
 			rexism = {
 			}
 			pyongism = {
+				can_be_randomly_selected = no
 			}
 			new_pandavas = {
-
+				can_be_randomly_selected = no
+			}
+			penism = {
+				can_be_randomly_selected = no
 			}
 		}
 		
@@ -763,6 +770,7 @@ ideologies = {
 		types = {
 		
 			fatalism_ideology = {
+				can_be_randomly_selected = no
 			}
 		}
 		

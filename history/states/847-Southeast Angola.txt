@@ -11,7 +11,7 @@ state={
 		owner = AF1
 	}
 	state_category = wasteland
-	manpower=10 # placeholder
+	manpower=4381119 # updated
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

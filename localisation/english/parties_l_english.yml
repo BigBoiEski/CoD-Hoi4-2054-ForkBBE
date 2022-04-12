@@ -126,6 +126,8 @@
  new_pandavas_desc:0 "[PLACEHOLDER]"
  pyongism:0 "Pyongism"
  pyongism_desc:0 "Arguably the most extremist nationalist ideology to be ever executed, Pyongism is an ideology that believes in the utter superiority of the Korean Master Race, with the Kim Jong-line being at the top of their racial hierarchy. They believe the Kim Jong family to have the blood of gods, and believe that the ultimate goal of the Korean Race is the total subjugation of every other ethnicity on earth."
+ penism:0 "Le Penism"
+ penism_desc:0 "[PLACEHOLDER]"
 
  despotism:0 "Despotic"
  despotism_desc:0 "Despotism is a form of government in which a single person rules with absolute power."
@@ -133,6 +135,8 @@
  oligarchism_desc:0 "Oligarchy is a form of government in which a group of people rule with absolute power."
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
+ no_authority:0 "No Functioning Authority"
+ no_authority_desc:0 "Without any form of government powerful enough to control any significant portions of land, this area of the world has fallen into complete anarchy, with people seeking to fill the power vacuum not lasting a very long time."
 
  authoritarian_technocratic:0 "Authoritarian Technocratic"
  authoritarian_technocratic_desc:0 "[PLACEHOLDER]"

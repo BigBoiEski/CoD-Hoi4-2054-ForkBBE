@@ -2,9 +2,9 @@
 state={
 	id=773
 	name="STATE_773" # Cameroon
-	manpower = 2945782
+	manpower = 31376400  #updated
 	
-	state_category = rural
+	state_category = large_town
 
 	history={
 		owner = FQA

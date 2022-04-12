@@ -2,9 +2,9 @@
 state={
 	id=776
 	name="STATE_776" # Benin/Dahomey
-	manpower = 1351563
+	manpower = 12980000 # updated
 	
-	state_category = pastoral
+	state_category = town
 	history={
 		owner = FQA
 		add_core_of = FQA

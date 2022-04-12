@@ -11,9 +11,9 @@ state={
 			7900 20 
 		}
 	}
-	state_category = metropolis
-	manpower=100000 # placeholder
-	buildings_max_level_factor=1.000
+	state_category = city
+	manpower=1276000 # updated
+	buildings_max_level_factor=1.500
 	local_supplies=0.000
 
 }

@@ -3,7 +3,7 @@ state = {
 	name = "STATE_826"
 
 	history = {
-		owner = GEO
+		owner = SOV
 		victory_points = {
 			11617 1 
 		}
@@ -21,7 +21,7 @@ state = {
 	provinces = {
 		672 11599 11617 11647 
 	}
-	manpower = 491569
+	manpower = 481410 # updated
 	buildings_max_level_factor = 1.000
 	state_category = rural
 

@@ -1,9 +1,9 @@
 state={
 	id=787
 	name="STATE_787" # Northern Kashmir
-	manpower = 1415800
+	manpower = 4415800 # updated
 	
-	state_category = rural
+	state_category = town 
 
 	history={
 		victory_points = {

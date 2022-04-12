@@ -4,9 +4,9 @@ state={
 	provinces={
 		1257 2045 4375 4403 5193 9966 10787 10903 
 	}
-	manpower=3000000
+	manpower=15340392 # updated
 	buildings_max_level_factor=1.000
-	state_category = rural
+	state_category = town
 	history={
 		owner = PRC
 		add_core_of = PRC

@@ -2,9 +2,9 @@ state=
 {
 	id=766
 	name="STATE_766"
-	manpower = 566600
+	manpower = 1725480 # updated
 	
-	state_category = rural
+	state_category = town
 	
 	history= {
 		victory_points = {

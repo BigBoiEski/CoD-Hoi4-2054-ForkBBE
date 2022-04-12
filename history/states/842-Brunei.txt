@@ -1,6 +1,6 @@
 state={
 	id=842
-	name="STATE_843"
+	name="STATE_843" # Brunei
 	provinces={
 		7371 7387 
 	}
@@ -11,7 +11,7 @@ state={
 			7371 15
 		}
 	}
-	manpower=1123543 # placeholder
+	manpower=510926 # updated
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category=large_city

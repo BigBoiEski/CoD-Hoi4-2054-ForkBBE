@@ -2,7 +2,7 @@ state={
 	id=769
 	name="STATE_769" # Burundi
 	
-	state_category = pastoral
+	state_category = city
 
 	history={
 		owner = EAF
@@ -20,7 +20,7 @@ state={
 	provinces={
 		2220
 	}
-	manpower=2145731
+	manpower=12650000 # updated
 	buildings_max_level_factor=1.000
 
 	local_supplies=0.0 

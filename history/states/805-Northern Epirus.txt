@@ -4,13 +4,13 @@ state={
 	provinces={
 		914 13234 13235
 	}
-	manpower = 262200
+	manpower = 662200 # updated
 	resources={
 		#chromium=45 # was: 84
 		#steel = 10 # was: 20
 	}
 	
-	state_category = pastoral
+	state_category = town
 
 	history= {
 		owner = ALB

@@ -2,10 +2,10 @@
 state={
 	id=782
 	name="STATE_782" # Tombouctou
-	manpower = 79243
+	manpower = 379243
 	
-	state_category = wasteland
-	impassable = yes
+	state_category = pastoral
+	impassable = no
 
 	history={
 		owner = FQA

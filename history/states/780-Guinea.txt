@@ -2,9 +2,9 @@
 state={
 	id=780
 	name="STATE_780" # Guinea
-	manpower = 195041
+	manpower = 13783000 # updated
 	
-	state_category = pastoral
+	state_category = town
 	history={
 		owner = FQA
 		add_core_of = FQA

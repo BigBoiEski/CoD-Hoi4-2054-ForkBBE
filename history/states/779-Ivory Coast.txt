@@ -2,9 +2,9 @@
 state={
 	id=779
 	name="STATE_779" # Ivory Coast
-	manpower = 3850734
+	manpower = 28270000 # updated
 	
-	state_category = pastoral
+	state_category = city
 	history={
 		owner = FQA
 		add_core_of = FQA

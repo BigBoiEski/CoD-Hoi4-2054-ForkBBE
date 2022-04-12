@@ -1,9 +1,9 @@
 state={
 	id=784
 	name="STATE_784"
-	manpower = 517081
+	manpower = 1217081 # updated
 	
-	state_category = rural
+	state_category = town
 	
 	history={
 		owner = BAL
