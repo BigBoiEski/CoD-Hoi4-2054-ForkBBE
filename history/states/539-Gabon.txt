@@ -1,3 +1,4 @@
+
 state={
 	id=539
 	name="STATE_539"
@@ -21,11 +22,10 @@ state={
 	}
 
 	provinces={
-		5139 8207 10948 13210 
+		10948 13210 
 	}
-	manpower=2394480 # updated
+	manpower=1197240 # updated
 	buildings_max_level_factor=1.000
 	state_category=large_town
-
-	local_supplies=1.0 
+	local_supplies=1.000
 }

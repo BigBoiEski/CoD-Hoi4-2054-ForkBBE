@@ -1,8 +1,7 @@
+
 state={
 	id=692
 	name="STATE_692"
-	manpower=926758 # updated
-	state_category = small_island
 
 	history={
 		add_core_of = BAS
@@ -11,16 +10,21 @@ state={
 			infrastructure = 2
 			11350 = {
 				naval_base = 1
+
 			}
+
 		}
 		victory_points = {
-			11350 1
+			11350 1 
 		}
-	}
-	
-	provinces={
-		379 11106 11350 13009 
+
 	}
 
-	local_supplies=4.0 
+	provinces={
+		379
+	}
+	manpower=121000  # updated
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=4.000
 }
