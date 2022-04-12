@@ -1,0 +1,15 @@
+state={
+	id=879
+	name="STATE_879"
+	provinces={
+		1246 1274 1313 1342 1345 1373 1401 1533 4211 4276 4320 4361 4364 4381 7308 7368 7384
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=31794190 # updated
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

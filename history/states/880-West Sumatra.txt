@@ -1,0 +1,15 @@
+state={
+	id=880
+	name="STATE_880"
+	provinces={
+		1648 4652 7658 7673 8360 10509 10522 12126 12488 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower = 31794190
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

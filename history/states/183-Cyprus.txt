@@ -1,33 +1,37 @@
-state= {
+
+state={
 	id=183
 	name="STATE_183"
-	manpower = 1344586
-	
-	state_category = city
 	resources={
-		chromium=3 # was: 4
+		chromium=3.000
 	}
 
-	history=
-	{
+	history={
 		owner = CYP
 		add_core_of = CYP
 		victory_points = {
-			11984 5
+			11984 5 
 		}
 		victory_points = {
-			7193 3
+			7193 3 
 		}
 		buildings = {
 			infrastructure = 2
 			air_base = 1
 			7193 = {
 				naval_base = 2
+
 			}
+
 		}
 
 	}
-	provinces= { 7193 11984 }
 
-	local_supplies=0.0 
+	provinces={
+		7193 
+	}
+	manpower=672293 # updated
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

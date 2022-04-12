@@ -1,0 +1,16 @@
+state={
+	id=868
+	name="STATE_868"
+	provinces={
+		5095 10749 12849 
+	}
+	history = {
+		add_core_of = MAG
+		owner = MAG
+		add_core_of = ALG
+	}
+	manpower=1541495 # updated
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

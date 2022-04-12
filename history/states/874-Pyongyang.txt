@@ -1,0 +1,16 @@
+state={
+	id=874
+	name="STATE_874"
+	provinces={
+		848 1003 4052 4107 7070 7155 7171 9981 10065 10083 11915 12040 
+	}
+	history = {
+		owner = PYO
+		add_core_of= PYO
+		add_core_of = KOR
+	}
+	manpower=38104564 # updated
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

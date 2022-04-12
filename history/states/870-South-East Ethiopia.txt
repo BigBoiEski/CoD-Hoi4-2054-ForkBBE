@@ -1,0 +1,15 @@
+state={
+	id=870
+	name="STATE_870"
+	provinces={
+		4995 5041 7980 8019 8062 10775 12714 12757 12812 
+	}
+	manpower=596322 # updated
+	history = {
+		add_core_of = ETH
+		owner = ETH
+	}
+	state_category = rural 
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

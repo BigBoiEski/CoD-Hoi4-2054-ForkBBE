@@ -1,0 +1,15 @@
+state={
+	id=863
+	name="STATE_863"
+	provinces={
+		2200 8180 8246 10993 12956 
+	}
+	history = {
+		owner = MAD
+		add_core_of= MAD
+	}
+	manpower=15229500 # updated
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

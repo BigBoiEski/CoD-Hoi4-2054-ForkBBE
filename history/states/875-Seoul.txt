@@ -1,0 +1,16 @@
+state={
+	id=875
+	name="STATE_875"
+	provinces={
+		1148 4004 7021 7125 9936 10036 11958 
+	}
+	history = {
+		owner = PYO
+		add_core_of= PYO
+		add_core_of = KOR
+	}
+	manpower=39424000 # updated
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

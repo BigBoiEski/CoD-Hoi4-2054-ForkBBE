@@ -1,0 +1,15 @@
+state={
+	id=876
+	name="STATE_876"
+	provinces={
+		1230 1304 1316 2170 2184 2222 4279 4335 4409 7227 7424 8221 10138 10282 10310 12110 12280 12955 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=6730320 # updated
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

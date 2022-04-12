@@ -1,0 +1,15 @@
+state={
+	id=877
+	name="STATE_877"
+	provinces={
+		1098 1289 1484 1505 1518 1561 4262 4307 4308 7311 10153 10169 10197 12358 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=10693825 # updated
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=881
+	name="STATE_881"
+	provinces={
+		11984 
+	}
+	history = {
+		owner = TRU
+		add_core_of = TRU
+		add_core_of = CYP
+	}
+	manpower=672293 # updated
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

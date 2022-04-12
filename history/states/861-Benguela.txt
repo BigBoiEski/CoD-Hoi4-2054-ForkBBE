@@ -1,0 +1,16 @@
+state={
+	id=861
+	name="STATE_861"
+	provinces={
+		8138 8202 10966 12391 12958 12985 
+	}
+	history = {
+		owner = AF6
+		add_core_of= AF6
+		add_core_of = ANG
+	}
+	manpower=3846495 # updated
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

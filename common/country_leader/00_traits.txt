@@ -844,8 +844,16 @@ leader_traits = {
 
 	anti_democrat = {
 		random = no
-		democratic_acceptance = -50
-		democratic_drift = -0.02
+		conservatism_acceptance = -50
+		progressivism_acceptance = -50
+		libertarianism_acceptance = -50
+		national_conservatism_acceptance = -50
+		centrism_acceptance = -50
+		centrism_drift = -0.004
+		conservatism_drift = -0.004
+		progressivism_drift = -0.004
+		libertarianism_drift = -0.004
+		national_conservatism_drift = -0.004
 		stability_factor = 0.10
 
 		ai_will_do = {
@@ -1003,7 +1011,11 @@ leader_traits = {
 		political_power_factor = 0.05
 		communism_drift = -0.01
 		fascism_drift = -0.01
-		democratic_drift = -0.01
+		centrism_drift = -0.002
+		conservatism_drift = -0.002
+		progressivism_drift = -0.002
+		libertarianism_drift = -0.002
+		national_conservatism_drift = -0.002
 	}
 
 	disdain_for_politicians_2 = {
@@ -1011,7 +1023,11 @@ leader_traits = {
 		political_power_factor = 0.1
 		communism_drift = -0.02
 		fascism_drift = -0.02
-		democratic_drift = -0.02
+		centrism_drift = -0.004
+		conservatism_drift = -0.004
+		progressivism_drift = -0.004
+		libertarianism_drift = -0.004
+		national_conservatism_drift = -0.004
 	}
 
 	queen_of_the_people = {
@@ -1167,7 +1183,11 @@ leader_traits = {
 	arkhigos = {
 		random = no
 		communism_drift = -0.02
-		democratic_drift = -0.02
+		centrism_drift = -0.004
+		conservatism_drift = -0.004
+		progressivism_drift = -0.004
+		libertarianism_drift = -0.004
+		national_conservatism_drift = -0.004
 		fascism_acceptance = 35
 		army_core_defence_factor = 0.05
 	}
@@ -1220,7 +1240,11 @@ leader_traits = {
 		stability_factor = 0.05
 		economy_cost_factor = -0.33
 		consumer_goods_factor = -0.03
-		democratic_acceptance = 50
+		conservatism_acceptance = 50
+		progressivism_acceptance = 50
+		libertarianism_acceptance = 50
+		national_conservatism_acceptance = 50
+		centrism_acceptance = 50
 		fascism_acceptance = -25
 		communism_acceptance = -25
 	}
@@ -1231,7 +1255,11 @@ leader_traits = {
 		production_speed_rail_way_factor = 0.1
 		production_speed_synthetic_refinery_factor = 0.1
 		trade_opinion_factor = 0.25
-		democratic_acceptance = 25
+		conservatism_acceptance = 25
+		progressivism_acceptance = 25
+		libertarianism_acceptance = 25
+		national_conservatism_acceptance = 25
+		centrism_acceptance = 25
 	}
 
 	polemarch = {
@@ -1514,7 +1542,11 @@ leader_traits = {
 
 		stability_factor = 0.05
 		political_power_factor = 0.05
-		democratic_drift = 0.1
+		centrism_drift = 0.002
+		conservatism_drift = 0.002
+		progressivism_drift = 0.002
+		libertarianism_drift = 0.002
+		national_conservatism_drift = 0.002
 	}	
 
 	gifted_shipping_magnate = {
@@ -1527,7 +1559,11 @@ leader_traits = {
 		production_speed_supply_node_factor = 0.1
 		production_speed_synthetic_refinery_factor = 0.1
 		trade_opinion_factor = 0.15
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 		fascism_drift = -0.1
 		communism_drift = -0.1
 	}
@@ -1595,7 +1631,11 @@ leader_traits = {
 		local_resources_factor = 0.1
 		subversive_activites_upkeep = -0.15
 		production_speed_arms_factory_factor = 0.05
-		democratic_drift = 0.1
+		centrism_drift = 0.002
+		conservatism_drift = 0.002
+		progressivism_drift = 0.002
+		libertarianism_drift = 0.002
+		national_conservatism_drift = 0.002
 	}
 
 	prime_minister_saracoglu = {
@@ -1644,7 +1684,11 @@ leader_traits = {
 		stability_factor = 0.05
 		political_power_gain = 0.07
 		political_advisor_cost_factor = -0.1
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 	}
 
 	prime_minister_demirag = {
@@ -1656,7 +1700,11 @@ leader_traits = {
 		production_speed_infrastructure_factor = 0.1
 		production_speed_arms_factory_factor = 0.05
 		production_speed_air_base_factor = 0.25
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 	}
 
 	grand_vizier_nursi = {
@@ -1839,7 +1887,11 @@ leader_traits = {
 		political_power_factor = 0.05
 		stability_factor = 0.1
 		political_advisor_cost_factor = -0.1
-		democratic_acceptance = 50
+		conservatism_acceptance = 50
+		progressivism_acceptance = 50
+		libertarianism_acceptance = 50
+		national_conservatism_acceptance = 50
+		centrism_acceptance = 50
 	}
 
 	the_bloody_professor_regency_council = { #Regency Council (led by Aleksandar Tsankov)
@@ -1887,7 +1939,11 @@ leader_traits = {
 	leader_of_the_agrarian_union = {
 		random = no
 		sprite = 13
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 		political_power_factor = 0.1
 		global_building_slots_factor = 0.1
 		min_export = -0.1
@@ -1904,7 +1960,11 @@ leader_traits = {
 	womens_rights_activist = {
 		random = no
 		sprite = 13
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 		political_power_gain = 0.05
 		stability_weekly = 0.005
 	}
@@ -2132,7 +2192,11 @@ leader_traits = {
 		political_power_factor = 0.1
 		stability_factor = 0.05
 		research_speed_factor = 0.02
-		democratic_acceptance = 50
+		conservatism_acceptance = 50
+		progressivism_acceptance = 50
+		libertarianism_acceptance = 50
+		national_conservatism_acceptance = 50
+		centrism_acceptance = 50
 		civilian_intel_to_others = 15
 		industrial_capacity_factory = -0.05
 	}
@@ -2143,7 +2207,11 @@ leader_traits = {
 		political_power_factor = 0.15
 		stability_factor = 0.1
 		research_speed_factor = 0.05
-		democratic_acceptance = 50
+		conservatism_acceptance = 50
+		progressivism_acceptance = 50
+		libertarianism_acceptance = 50
+		national_conservatism_acceptance = 50
+		centrism_acceptance = 50
 		civilian_intel_to_others = 15
 		industrial_capacity_factory = -0.02
 	}
@@ -2374,7 +2442,11 @@ leader_traits = {
 		opinion_gain_monthly_factor = 0.15
 		enemy_justify_war_goal_time = 0.15
 		request_lease_tension = -0.2
-		democratic_acceptance = 40
+		conservatism_acceptance = 40
+		progressivism_acceptance = 40
+		libertarianism_acceptance = 40
+		national_conservatism_acceptance = 40
+		centrism_acceptance = 40
 	}
 
 	#Patriarch Sergy
@@ -2670,7 +2742,11 @@ leader_traits = {
 		random = no
 		sprite = 13
 
-		democratic_drift = 0.1
+		centrism_drift = 0.02
+		conservatism_drift = 0.02
+		progressivism_drift = 0.02
+		libertarianism_drift = 0.02
+		national_conservatism_drift = 0.02
 		stability_factor = 0.15
 		
 		ai_will_do = {
@@ -3229,7 +3305,11 @@ leader_traits = {
 	liberal_journalist = {
 		sprite = 13
 		random = no
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 		political_power_factor = 0.05
 		
 		ai_will_do = {
@@ -3284,7 +3364,11 @@ leader_traits = {
 		random = no
 		sprite = 13
 
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 		stability_factor = 0.1
 		
 		ai_will_do = {
@@ -3466,8 +3550,16 @@ leader_traits = {
 		sprite = 13
 		fascism_drift = -0.05
 		communism_drift = -0.05
-		democratic_drift = 0.05
-		democratic_acceptance = 40
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
+		conservatism_acceptance = 40
+		progressivism_acceptance = 40
+		libertarianism_acceptance = 40
+		national_conservatism_acceptance = 40
+		centrism_acceptance = 40
 	}
 
 	agricultural_nationalist = {
@@ -3504,7 +3596,11 @@ leader_traits = {
 		political_power_factor = 0.15
 		political_advisor_cost_factor = -0.1
 		neutrality_drift = 0.1
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 	}
 
 	subservient_democrat_democratic = {
@@ -3512,7 +3608,11 @@ leader_traits = {
 		sprite = 13
 		political_power_factor = 0.15
 		political_advisor_cost_factor = -0.1
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 	}
 
 	hardline_latvian_nationalist = {
@@ -3620,13 +3720,21 @@ leader_traits = {
 		random = no
 		sprite = 13
 		stability_factor = 0.1
-		democratic_acceptance = 85
+		conservatism_acceptance = 85
+		progressivism_acceptance = 85
+		libertarianism_acceptance = 85
+		national_conservatism_acceptance = 85
+		centrism_acceptance = 85
 	}
 
 	leftist_legionary = {
 		random = no
 		sprite = 13
-		democratic_drift = 0.1
+		centrism_drift = 0.02
+		conservatism_drift = 0.02
+		progressivism_drift = 0.02
+		libertarianism_drift = 0.02
+		national_conservatism_drift = 0.02
 		special_forces_attack_factor = 0.15
 		special_forces_defence_factor = 0.15
 	}
@@ -3711,7 +3819,11 @@ leader_traits = {
 		sprite = 13
 		exiled_government_weekly_manpower = 700
 		legitimacy_daily = 0.1
-		democratic_drift = 0.1
+		centrism_drift = 0.02
+		conservatism_drift = 0.02
+		progressivism_drift = 0.02
+		libertarianism_drift = 0.02
+		national_conservatism_drift = 0.02
 	}
 
 	exile_king = {
@@ -3851,7 +3963,11 @@ leader_traits = {
 		random = no
 		sprite = 13
 		political_power_factor = 0.15
-		democratic_drift = 0.05
+		centrism_drift = 0.01
+		conservatism_drift = 0.01
+		progressivism_drift = 0.01
+		libertarianism_drift = 0.01
+		national_conservatism_drift = 0.01
 	}
 	
 	national_propagandist = {

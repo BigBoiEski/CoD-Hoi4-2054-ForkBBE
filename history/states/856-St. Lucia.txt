@@ -1,0 +1,15 @@
+state={
+	id=856
+	name="STATE_856"
+	provinces={
+		13009 
+	}
+	history = {
+		owner = USA # TODO: MAKE TAG FOR COUNTRY
+		add_core_of = USA
+	}
+	manpower=201300 # updated
+	state_category = small_island
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

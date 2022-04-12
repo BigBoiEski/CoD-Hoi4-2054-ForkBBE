@@ -1,0 +1,15 @@
+state={
+	id=850
+	name="STATE_850"
+	provinces={
+		6909 9832 9847 9850 
+	}
+	history = {
+		owner = USA
+		add_core_of= USA
+	}
+	manpower=5174518 # updated
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
