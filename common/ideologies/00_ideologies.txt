@@ -363,7 +363,9 @@ ideologies = {
 	
 		types = {
 		
-			muslim_theocratic = {
+			sunni_theocratic = {
+			}
+			shia_theocratic = {
 			}
 			pope_theocratic = {
 			}
