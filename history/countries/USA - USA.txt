@@ -151,8 +151,21 @@ add_ideas = {
 	USA_great_awakening
 	USA_post_automation
 	USA_second_amendment
+	USA_self_sufficiency
+	USA_collapsing_two_parties
 }
 
+create_faction = LFN
+add_to_faction = ENG
+add_to_faction = CAN
+add_to_faction = AST
+add_to_faction = NZL
+add_to_faction = SAF
+add_to_faction = NMX
+add_to_faction = DEN
+add_to_faction = FIN
+add_to_faction = SWE
+add_to_faction = NOR
 
 ### VARIANTS ###
 # 1936 Start #

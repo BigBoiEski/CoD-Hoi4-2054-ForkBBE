@@ -8,6 +8,7 @@ ideas = {
 
 			modifier = {
 				research_speed_factor = -0.05
+		
 				war_support_factor = 0.10
 				recruitable_population_factor = 0.025
 			}
@@ -34,6 +35,31 @@ ideas = {
 				stability_factor = -0.05
 				army_core_defence_factor = 0.25
 				resistance_damage_to_garrison_on_our_occupied_states = 2
+			}
+		}
+		USA_collapsing_two_parties = {
+			picture = usa_collapsing_two_parties
+			allowed = {	
+			tag = USA
+			}	
+
+			modifier = {
+				stability_factor = -0.10
+				war_support_factor = -0.05
+				drift_defence_factor = -0.5
+				centrism_drift = -0.05
+				conservatism_drift = -0.05
+			}
+		}
+		USA_self_sufficiency = {
+			picture = USA_self_sufficiency
+			allowed = {	
+			tag = USA
+			}	
+
+			modifier = {
+				war_support_factor = -0.05
+				production_speed_buildings_factor = 0.15
 			}
 		}
 	}
